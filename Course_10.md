@@ -702,60 +702,61 @@ cover-circle[color="cyan"] { border-color: var(--cyan); color: var(--cyan); box-
 <tl>
 
   <tls color="sky">البداية وفهم OOP</tls>
-  <tli color="sky"><a href="#l-what-is-oop-and-why" style="text-decoration:none; color:inherit;">What is OOP and Why?</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="sky"><a href="#l-classes-and-objects" style="text-decoration:none; color:inherit;">Classes and Objects</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="sky"><a href="#l-class-members" style="text-decoration:none; color:inherit;">Class Members</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="sky"><a href="#l-objects-in-memory" style="text-decoration:none; color:inherit;">Objects In Memory</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="sky"><a href="#l-access-specifiersmodifiers" style="text-decoration:none; color:inherit;">Access Specifiers/Modifiers</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="sky"><a href="#l-what-is-oop-and-why" style="text-decoration:none; color:inherit;">What is OOP and Why?</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 5</span></tli>
+  <tli color="sky"><a href="#l-classes-and-objects" style="text-decoration:none; color:inherit;">Classes and Objects</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 9</span></tli>
+  <tli color="sky"><a href="#l-class-members" style="text-decoration:none; color:inherit;">Class Members</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 12</span></tli>
+  <tli color="sky"><a href="#l-objects-in-memory" style="text-decoration:none; color:inherit;">Objects In Memory</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 14</span></tli>
+  <tli color="sky"><a href="#l-access-specifiersmodifiers" style="text-decoration:none; color:inherit;">Access Specifiers/Modifiers</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 15</span></tli>
 
   <tls color="teal">الخصائص والتغليف</tls>
-  <tli color="teal"><a href="#l-properties-set-and-get" style="text-decoration:none; color:inherit;">Properties Set and Get</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="teal"><a href="#l-read-only-property" style="text-decoration:none; color:inherit;">Read Only Property</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="teal"><a href="#l-properties-set-and-get-through-" style="text-decoration:none; color:inherit;">Properties Set and Get through "="</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="teal"><a href="#l-properties-set-and-get" style="text-decoration:none; color:inherit;">Properties Set and Get</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 20</span></tli>
+  <tli color="teal"><a href="#l-read-only-property" style="text-decoration:none; color:inherit;">Read Only Property</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 23</span></tli>
+  <tli color="teal"><a href="#l-properties-set-and-get-through-" style="text-decoration:none; color:inherit;">Properties Set and Get through "="</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 25</span></tli>
 
   <tls color="teal">Encapsulation & Abstraction</tls>
-  <tli color="teal"><a href="#l-first-principle-of-oop-encapsulation" style="text-decoration:none; color:inherit;">First Principle of OOP: Encapsulation</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="teal"><a href="#l-second-principle-of-oop-abstraction" style="text-decoration:none; color:inherit;">Second Principle of OOP: Abstraction</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="teal"><a href="#l-first-principle-of-oop-encapsulation" style="text-decoration:none; color:inherit;">First Principle of OOP: Encapsulation</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 29</span></tli>
+  <tli color="teal"><a href="#l-second-principle-of-oop-abstraction" style="text-decoration:none; color:inherit;">Second Principle of OOP: Abstraction</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 31</span></tli>
 
 
   <tls color="gold">Constructors &amp; Memory</tls>
-  <tli color="gold"><a href="#l-constructors" style="text-decoration:none; color:inherit;">Constructors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="gold"><a href="#l-copy-constructors" style="text-decoration:none; color:inherit;">Copy Constructors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="gold"><a href="#l-destructors" style="text-decoration:none; color:inherit;">Destructors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="gold"><a href="#l-static-members" style="text-decoration:none; color:inherit;">Static Members</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="gold"><a href="#l-constructors" style="text-decoration:none; color:inherit;">Constructors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 36</span></tli>
+  <tli color="gold"><a href="#l-copy-constructors" style="text-decoration:none; color:inherit;">Copy Constructors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 39</span></tli>
+  <tli color="gold"><a href="#l-destructors" style="text-decoration:none; color:inherit;">Destructors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 43</span></tli>
+  <tli color="gold"><a href="#l-static-members" style="text-decoration:none; color:inherit;">Static Members</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 46</span></tli>
+  <tli color="gold"><a href="#l-static-methods" style="text-decoration:none; color:inherit;">Static Methods</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 49</span></tli>
 
 
   <tls color="indigo">Inheritance — الوراثة</tls>
-  <tli color="indigo"><a href="#l-third-principle-of-oop-inheritance" style="text-decoration:none; color:inherit;">Third Principle of OOP: Inheritance</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-parameterized-constructor-of-the-base-class" style="text-decoration:none; color:inherit;">Parameterized Constructor of the Base Class</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-function-overriding" style="text-decoration:none; color:inherit;">Function Overriding</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-multi-level-inheritance" style="text-decoration:none; color:inherit;">Multi Level Inheritance</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-access-specifiersmodifiers-review" style="text-decoration:none; color:inherit;">Access Specifiers/Modifiers Review</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-inheritance-visibility-modes" style="text-decoration:none; color:inherit;">Inheritance Visibility Modes</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-inheritance-types" style="text-decoration:none; color:inherit;">Inheritance Types</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-up-casting-vs-down-casting" style="text-decoration:none; color:inherit;">Up Casting vs Down Casting</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-virtual-functions" style="text-decoration:none; color:inherit;">Virtual Functions</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="indigo"><a href="#l-staticearly-binding-vs-dynamiclate-binding" style="text-decoration:none; color:inherit;">Static/Early Binding vs Dynamic/Late Binding</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="indigo"><a href="#l-third-principle-of-oop-inheritance" style="text-decoration:none; color:inherit;">Third Principle of OOP: Inheritance</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 53</span></tli>
+  <tli color="indigo"><a href="#l-parameterized-constructor-of-the-base-class" style="text-decoration:none; color:inherit;">Parameterized Constructor of the Base Class</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 58</span></tli>
+  <tli color="indigo"><a href="#l-function-overriding" style="text-decoration:none; color:inherit;">Function Overriding</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 62</span></tli>
+  <tli color="indigo"><a href="#l-multi-level-inheritance" style="text-decoration:none; color:inherit;">Multi Level Inheritance</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 66</span></tli>
+  <tli color="indigo"><a href="#l-access-specifiersmodifiers-review" style="text-decoration:none; color:inherit;">Access Specifiers/Modifiers Review</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 70</span></tli>
+  <tli color="indigo"><a href="#l-inheritance-visibility-modes" style="text-decoration:none; color:inherit;">Inheritance Visibility Modes</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 73</span></tli>
+  <tli color="indigo"><a href="#l-inheritance-types" style="text-decoration:none; color:inherit;">Inheritance Types</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 77</span></tli>
+  <tli color="indigo"><a href="#l-up-casting-vs-down-casting" style="text-decoration:none; color:inherit;">Up Casting vs Down Casting</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 79</span></tli>
+  <tli color="indigo"><a href="#l-virtual-functions" style="text-decoration:none; color:inherit;">Virtual Functions</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 82</span></tli>
+  <tli color="indigo"><a href="#l-staticearly-binding-vs-dynamiclate-binding" style="text-decoration:none; color:inherit;">Static/Early Binding vs Dynamic/Late Binding</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 85</span></tli>
 
   <tls color="fuchsia">Polymorphism</tls>
-  <tli color="fuchsia"><a href="#l-fourth-principleconcept-of-oop-polymorphism" style="text-decoration:none; color:inherit;">Fourth Principle/Concept of OOP: Polymorphism</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="fuchsia"><a href="#l-interfaces-pure-virtual-functions-and-abstract-classes" style="text-decoration:none; color:inherit;">Interfaces: Pure Virtual Functions and Abstract Classes</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="fuchsia"><a href="#l-fourth-principleconcept-of-oop-polymorphism" style="text-decoration:none; color:inherit;">Fourth Principle/Concept of OOP: Polymorphism</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 89</span></tli>
+  <tli color="fuchsia"><a href="#l-interfaces-pure-virtual-functions-and-abstract-classes" style="text-decoration:none; color:inherit;">Interfaces: Pure Virtual Functions and Abstract Classes</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 90</span></tli>
 
   <tls color="emerald">Friends</tls>
-  <tli color="emerald"><a href="#l-friend-class" style="text-decoration:none; color:inherit;">Friend Class</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="emerald"><a href="#l-friend-functions" style="text-decoration:none; color:inherit;">Friend Functions</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="emerald"><a href="#l-friend-class" style="text-decoration:none; color:inherit;">Friend Class</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 97</span></tli>
+  <tli color="emerald"><a href="#l-friend-functions" style="text-decoration:none; color:inherit;">Friend Functions</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 99</span></tli>
 
   <tls color="lavender">Misc</tls>
-  <tli color="lavender"><a href="#l-structure-inside-class" style="text-decoration:none; color:inherit;">Structure Inside Class</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="lavender"><a href="#l-nested-classes" style="text-decoration:none; color:inherit;">Nested Classes</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="lavender"><a href="#l-passing-objects-to-functions" style="text-decoration:none; color:inherit;">Passing Objects to Functions (ByRef/ByVal)</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="lavender"><a href="#l-objects-and-vectors" style="text-decoration:none; color:inherit;">Objects and Vectors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="lavender"><a href="#l-objects-and-dynamic-array" style="text-decoration:none; color:inherit;">Objects and Dynamic Array</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="lavender"><a href="#l-objects-with-parameterized-constructor-and-array" style="text-decoration:none; color:inherit;">Objects with Parameterized Constructor and Array</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="lavender"><a href="#l-structure-inside-class" style="text-decoration:none; color:inherit;">Structure Inside Class</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 102</span></tli>
+  <tli color="lavender"><a href="#l-nested-classes" style="text-decoration:none; color:inherit;">Nested Classes</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 103</span></tli>
+  <tli color="lavender"><a href="#l-passing-objects-to-functions" style="text-decoration:none; color:inherit;">Passing Objects to Functions (ByRef/ByVal)</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 105</span></tli>
+  <tli color="lavender"><a href="#l-objects-and-vectors" style="text-decoration:none; color:inherit;">Objects and Vectors</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 106</span></tli>
+  <tli color="lavender"><a href="#l-objects-and-dynamic-array" style="text-decoration:none; color:inherit;">Objects and Dynamic Array</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 107</span></tli>
+  <tli color="lavender"><a href="#l-objects-with-parameterized-constructor-and-array" style="text-decoration:none; color:inherit;">Objects with Parameterized Constructor and Array</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 108</span></tli>
 
   <tls color="cyan">Other</tls>
-  <tli color="cyan"><a href="#l-this-pointer" style="text-decoration:none; color:inherit;">‘this’ pointer</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
-  <tli color="cyan"><a href="#l-separate-classes-in-libraries" style="text-decoration:none; color:inherit;">Separate Classes In Libraries</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : xx</span></tli>
+  <tli color="cyan"><a href="#l-this-pointer" style="text-decoration:none; color:inherit;">‘this’ pointer</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 110</span></tli>
+  <tli color="cyan"><a href="#l-separate-classes-in-libraries" style="text-decoration:none; color:inherit;">Separate Classes In Libraries</a> <span style="float:left; font-family:var(--mono); font-size:0.85em; opacity:0.6;">Page : 113</span></tli>
 
 
 
@@ -3879,6 +3880,7 @@ int main()
 
 </wrap>
 
+<br-page></br-page>
 
 <cover><cover-circle color="emerald">Friends</cover-circle></cover>
 
@@ -4435,9 +4437,9 @@ class clsEmployee : public clsPerson { ... };
 
 و بما الملف مجرد كود html + css فنا استخدمت أداة بتشتغل بالبايثون منزلها من جيت هاب عشان استخدمها في تحويل الملف ل pdf , بالمناسبة في مليون طريقة تانية للتحويل
 
-اتفضل الملف قبل الحتويل لو انت عايز تشغله عندك في المتصفح كـ **Localhost** 
 
-؟؟؟
+<a href="https://github.com/aboda-0100011/C10" download>اتفضل الملف قبل الحتويل لو انت عايز تشغله عندك في المتصفح كـ **Localhost** 
+</a>
 
 بالمناسبة الملف كان في الاول مارك داون بعدين حولته html , بس لو هتعمل بنفسك متعملش كده
 
